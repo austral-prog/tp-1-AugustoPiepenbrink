@@ -5,6 +5,6 @@ def math():
     print(a-b)
     print(a*b)
     print((a+b)/2)
-    print(b+1)
-    print(a/a)
+    print(a//b)
+    print(a%a)
     print(a/b)
